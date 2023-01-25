@@ -1,0 +1,2 @@
+This is the first File being created by me for exploring Git.
+Welcome to the world of Repositories!!!
