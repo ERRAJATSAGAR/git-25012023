@@ -1,2 +1,7 @@
-This is the first File being created by me for exploring Git.
+
+This is the first File being created by me for Git.
 Welcome to the world of Repositories!!!
+this is new addition to the file
+this is another line to be added
+
+this is addwd in feature1 branch
