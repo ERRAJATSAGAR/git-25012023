@@ -4,4 +4,4 @@ Welcome to the world of Repositories!!!
 this is new addition to the file
 this is another line to be added
 
-this is addwd in feature1 branch
+this is added in switch branch
